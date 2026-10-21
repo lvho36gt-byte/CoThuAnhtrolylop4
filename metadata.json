@@ -1,0 +1,6 @@
+{
+  "name": "AI Cùng Em - Phiêu Lưu Tri Thức Lớp 3",
+  "description": "Ứng dụng học tập thông minh lớp 3 kết hợp trợ lý AI, 5 trạm phiêu lưu tri thức, trò chơi giáo dục và quản lý lớp học toàn diện theo chương trình GDPT 2018.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
